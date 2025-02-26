@@ -7,13 +7,13 @@
 ### <b>About Me:</b>
 
 - 🏦 I'm an undergraduate student <b>@ School of Engineering, Jawaharlal Nehru University</b>
-- 📝 I am currently working on projects related to Flutter and Machine Learning
+- 📝 I am currently working on projects related Socket Programming and Java Backend.
   <br>
 
 <h3 align="left">📫 How to reach me:</h3>
 
 - [**Drop a Mail**](mailto:shasha46_soe@jnu.ac.in)
-- [**Visit my Website**](https://sarverjii.github.io/Portfolio/)
+- [**Visit my Website**](https://sarverjii.github.io/Portfolio-Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
